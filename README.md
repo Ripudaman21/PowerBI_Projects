@@ -1,6 +1,6 @@
 # Power BI Dashboards Repository
 
-Welcome to my Power BI Dashboards Repository! This repository contains a collection of Power BI projects, each with their own set of reports, visualizations, and data sources. These dashboards can be used for a variety of purposes, including business intelligence analysis, data exploration, and performance monitoring.
+Welcome to my Power BI Dashboards Repository! This repository contains a collection of Power BI projects, each with its own set of reports, visualizations, and data sources. These dashboards can be used for a variety of purposes, including business intelligence analysis, data exploration, and performance monitoring.
 
 ## Table of Contents
 
@@ -18,10 +18,14 @@ Once you have Power BI Desktop installed, you can download a dashboard project f
 
 This repository contains the following dashboard project:
 
-- [Projet1 - HR analytics dashboard](https://github.com/imenbkr/Power-Bi-dashboards/tree/main/Projet1%20-%20HR%20analytics%20dashboard): A dashboard that displays HR data for a company, including Attrition count of Employees, Job Satisfaction rate, and Job Roles.
-- [Project 2 - Financial Report](https://github.com/imenbkr/Power-Bi-dashboards/tree/main/Project%202%20-%20Financial%20Report): A dashboard that displays a summary on profits of a company. [Link to the dashboard on novypro](https://www.novypro.com/project/financial-report-7)
+- Sales Report -   A dashboard that displays sales data for the region, Salesperson, geography, YTD sales/ revenue growth,
+- Has KPIs like Totoal revenue total cost  profit units sold
+- display a list top a list salesperson
+- Revenue by category and sub-category
+![image](https://github.com/user-attachments/assets/2c4e4de0-ee53-4302-8f0b-df908e1c592b)
+### Star Schema - Data Modelling 
+![image](https://github.com/user-attachments/assets/4e5f849a-b5a3-467d-a503-ed4a189d4df5)
 
-Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
 
 
 
@@ -47,12 +51,11 @@ Each project folder contains a README.md file that describes the purpose of the 
 # PowerBI_Projects
 
 
-![image](https://github.com/user-attachments/assets/2c4e4de0-ee53-4302-8f0b-df908e1c592b)
+
 ![image](https://github.com/user-attachments/assets/e6973357-a6be-414c-b415-0b0379ae16bc)
 ![image](https://github.com/user-attachments/assets/a000cc7e-d9aa-4356-945e-e61770141cbe)
 
-### Star Schema - Data Modelling 
-![image](https://github.com/user-attachments/assets/4e5f849a-b5a3-467d-a503-ed4a189d4df5)
+
 
 ![image](https://github.com/user-attachments/assets/ece72b5d-e6f3-4d1b-b2df-d1a4d7644ded)
 
