@@ -32,9 +32,44 @@ This repository contains the following dashboard project:
 
 
 
+Customer Trend Chart (Upper Middle):
+A grouped bar chart showing the yearly comparison between active and inactive members from 2016 to 2019. The pink bars represent active members and blue bars show inactive members, demonstrating the customer base evolution over time.
+Exit Customer Trend (Upper Right):
+A dual-line graph tracking monthly exit customers (blue line) against previous month's exits (pink line), helping identify seasonal patterns or unusual spikes in customer departures.
+Gender Distribution (Lower Left):
+A donut chart breaking down exit customers by gender, with two segments:
 
 
+Female (pink segment)
+Male (blue segment)
+showing the gender proportion of departing customers.
 
+
+Credit Score Breakdown (Lower Middle):
+A horizontal bar chart categorizing exit customers across five credit score ranges:
+
+
+Excellent
+Very Good
+Good
+Poor
+Fair
+The bars are arranged from highest to lowest count, helping visualize which credit score groups are more likely to exit.
+
+
+Payment Method Split (Lower Right):
+A pie chart comparing the proportion of credit card holders versus non-credit card holders among exit customers, using a blue and pink color scheme.
+
+Filter Options (Left Side):
+A series of dropdown menus allowing data filtering by:
+
+Time period
+Geographic location
+Activity status
+Exit category
+Gender
+
+![image](https://github.com/user-attachments/assets/a000cc7e-d9aa-4356-945e-e61770141cbe)
 
 
 
@@ -53,7 +88,7 @@ This repository contains the following dashboard project:
 
 
 ![image](https://github.com/user-attachments/assets/e6973357-a6be-414c-b415-0b0379ae16bc)
-![image](https://github.com/user-attachments/assets/a000cc7e-d9aa-4356-945e-e61770141cbe)
+
 
 
 
