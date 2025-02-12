@@ -16,7 +16,7 @@ Once you have Power BI Desktop installed, you can download a dashboard project f
 
 ## Dashboard Projects
 
-This repository contains the following dashboard project:
+## Sales Dashboard
 
 - Sales Report -   A dashboard that displays sales data for the region, Salesperson, geography, YTD sales/ revenue growth,
 - Has KPIs like Totoal revenue total cost  profit units sold
@@ -30,7 +30,7 @@ This repository contains the following dashboard project:
 
 
 
-
+## Customer Chur Dashboard
 
 Customer Trend Chart (Upper Middle):
 A grouped bar chart showing the yearly comparison between active and inactive members from 2016 to 2019. The pink bars represent active members and blue bars show inactive members, demonstrating the customer base evolution over time.
@@ -71,7 +71,8 @@ Gender
 
 ![image](https://github.com/user-attachments/assets/a000cc7e-d9aa-4356-945e-e61770141cbe)
 
-
+### Star Schema - Data Modelling 
+![image](https://github.com/user-attachments/assets/ddd41683-18be-4cb0-930c-05d91706ebaa)
 
 
 
