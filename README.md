@@ -3,6 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/2c4e4de0-ee53-4302-8f0b-df908e1c592b)
 ![image](https://github.com/user-attachments/assets/e6973357-a6be-414c-b415-0b0379ae16bc)
+![image](https://github.com/user-attachments/assets/a000cc7e-d9aa-4356-945e-e61770141cbe)
 
 ### Star Schema - Data Modelling 
 ![image](https://github.com/user-attachments/assets/4e5f849a-b5a3-467d-a503-ed4a189d4df5)
